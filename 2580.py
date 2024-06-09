@@ -9,4 +9,3 @@ for i in range(num_order):
     orders[name] += 1
 for order in orders:
     print(order)
-# flag{ohhhhh-you-can-use-git-and-github}
